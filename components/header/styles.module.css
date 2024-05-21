@@ -1,0 +1,37 @@
+
+.header {
+  background: linear-gradient(180deg, rgb(255, 255, 0), rgba(255, 255, 255, 0));
+
+}
+
+  .headerWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    color: #140f0f;
+  }
+  .spellingBee {
+    /* İstediğiniz font özelliklerini burada tanımlayın */
+    font-family: 'YourSelectedFont', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    /* Diğer stil özelliklerini burada da ekleyebilirsiniz */
+  }
+
+  .navigationMenu {
+    display: flex;
+    gap: 48px;
+    color: #fafafa;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "letters": ["i", "e", "k", "l", "m", "r"],
+    "commonLetter": "a",
+    "validWords": [
+      "amerika",
+      "kalamar",
+      "meral",
+      "ramak",
+      "elma",
+      "akar",
+      "makale",
+      "karamele",
+      "rakam",
+      "mare"
+    ]
+  },
+  {
+    "id": 1,
+    "letters": ["a", "z", "k", "r", "t", "s"],
+    "commonLetter": "o",
+    "validWords": [
+      "koza",
+      "akor",
+      "aort",
+      "kaza",
+      "toka",
+      "roka",
+      "tarot",
+      "ortak",
+      "rota",
+      "tork"
+    ]
+  },
+      {
+        "id": 2,
+        "letters": ["a", "m", "r", "t", "b", "n"],
+        "commonLetter": "e",
+        "validWords": [
+          "mabet",
+          "baret",
+          "metan",
+          "antre",
+          "nebat",
+          "berat",
+          "barmen",
+          "name",
+          "tren",
+          "ebat"
+        ]
+      },
+      {
+        "id": 3,
+        "letters": ["t", "n", "e", "k", "l", "m"],
+        "commonLetter": "ü",
+        "validWords": [
+          "lümen",
+          "tümen",
+          "tümel",
+          "ünlem",
+          "kütle",
+          "nükte",
+          "mülk",
+          "ülke",
+          "menü",
+          "küme"
+        ]
+      }
+]
+
+  

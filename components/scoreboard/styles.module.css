@@ -1,0 +1,30 @@
+.scoreboard {
+    font-family: Arial, sans-serif;
+    border: 2px solid #333333;
+    border-radius: 12px;
+    padding: 20px; /* Önceki 20px'den 15px'e azalttım */
+    font-size: 14px; /* Font boyutunu küçülttüm */
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .th, .td {
+    border: 1px solid #333;
+    padding: 12px;
+  }
+  
+  .th {
+    background-color: #e3e714;
+    color: #fff;
+  }
+  
+  .score {
+    font-weight: bold;
+  }
+  
+  .word {
+    font-weight: bold;
+  }

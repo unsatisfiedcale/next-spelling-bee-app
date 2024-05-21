@@ -1,0 +1,23 @@
+.borderlessInput {
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    font-size: 38px;
+    background-color: transparent;
+    caret-color: #ecbb0bcb
+    
+  }
+
+
+.customFont {
+  font-family: 'Arial', sans-serif; /* Özel fontu buradan ayarlayabilirsiniz */
+  font-weight: bold; /* Metnin kalınlığını buradan ayarlayabilirsiniz */
+  text-align: center; /* Metni ortala */
+  color :#725c5ccb
+  
+
+}
+
+
+
+

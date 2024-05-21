@@ -1,0 +1,53 @@
+[
+    {
+      "id": 4,
+      "letters": ["s", "n", "k", "l", "b", "m"],
+      "commonLetter": "a",
+      "validWords": [
+        "balks",
+        "balms",
+        "banks",
+        "blank",
+        "slab",
+        "slam",
+        "bask",
+        "bans",
+        "lams",
+        "mask"
+      ]
+    },
+    {
+        "id": 5,
+        "letters": ["g", "h", "k", "l", "s", "m"],
+        "commonLetter": "o",
+        "validWords": [
+          "gloms",
+          "holks",
+          "holms",
+          "kohls",
+          "slog",
+          "smog",
+          "mosk",
+          "olms",
+          "logs",
+          "gosh"
+        ]
+      },
+      {
+        "id": 6,
+        "letters": ["g", "h", "k", "l", "s", "m"],
+        "commonLetter": "u",
+        "validWords": [
+          "glum",
+          "guls",
+          "gums",
+          "hulk",
+          "lugs",
+          "lush",
+          "musk",
+          "slug",
+          "smug",
+          "sulk"
+        ]
+      }
+]

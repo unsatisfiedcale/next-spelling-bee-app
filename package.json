@@ -1,0 +1,29 @@
+{
+  "name": "spelling-bee-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@nextui-org/react": "^2.3.6",
+    "antd": "^5.17.0",
+    "i18next": "^23.11.4",
+    "next": "14.2.3",
+    "next-i18next": "^15.3.0",
+    "next-navigation": "^1.0.6",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-countdown-circle-timer": "^3.2.1",
+    "react-dom": "^18",
+    "react-i18next": "^14.1.1",
+    "react-icons": "^5.2.1"
+  }
+}

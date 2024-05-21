@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+  
+  }
+  
+  .hexagonContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 8rem; 
+}
+  
+  .hexagonGrid {
+    display: grid;
+    grid-template-columns: repeat(3, auto); 
+    gap: 9px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .hexagonGrid {
+        grid-template-columns: repeat(3, auto); 
+        gap: 10px;
+    }
+  }
+
+.validationMessage {
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 13px;
+  font-size: 18px;
+  text-align: center;
+}
+
+
